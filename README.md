@@ -1,8 +1,8 @@
 # Proyecto Java Backend- Spring
 
-## Docente ✒️
+## Alumno ✒️
 
-* **Jorge Jacinto **
+* **Alejandro Hinostroza **
 
 ## Grupo  ✒️
 * 
